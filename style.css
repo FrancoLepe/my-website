@@ -1,3 +1,30 @@
 body {
-    background: rgb(85, 188, 252);
+    background-image:url("miami\ at\ night.jpeg")
+  
   }
+
+p {
+  font-size: 19px ;
+  font-family: Bebas Neue, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  color:white;
+}  
+h1 {
+  font-size: 80px;
+}
+
+h2,h1,div {
+  font-family: Bebas Neue, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  color: rgb(255, 255, 255);
+}
+
+img {
+  width: 240px;
+  height: 400px;
+  opacity: 100%;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
