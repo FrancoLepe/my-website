@@ -28,3 +28,9 @@ function currentTime() {
     let t = setTimeout(function(){ currentTime() }, 1000);
   }
   currentTime();
+
+  const button = document.querySelector('.btn');
+
+  button.addEventListener ("click", () => {
+    console.log("Button Clicked");
+  });
