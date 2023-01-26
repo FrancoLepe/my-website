@@ -34,6 +34,4 @@ function currentTime() {
   button.addEventListener ("click", () => {
     console.log("Button Clicked");
   });
-  function buttonColor() {
-    document.getElementsByClassName(".btn").style.backgroundColor= '#911';
-  }
+  
