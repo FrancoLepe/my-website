@@ -1,8 +1,10 @@
 body {
-  background: black;  
+  background: #000000;  
   background-image:url("miami\ at\ night.jpeg")
-  
+ 
   }
+
+
 
 p {
   font-size: 19px ;
